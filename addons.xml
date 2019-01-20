@@ -72,7 +72,7 @@
 <disclaimer lang="it">Questa skin non funziona su Apple Tv 2</disclaimer>
 <license>Creative Commons Attribution-ShareAlike 3.0 Unported License</license>
 <forum>http://forum.kodi.tv/forumdisplay.php?fid=211</forum>
-<source><source>https://github.com/ASHJG/skin.nebula-plus</source></source>
+<source>https://github.com/ASHJG/skin.nebula-plus</source>
 <platform>all</platform>
 <assets>
 <icon>icon.png</icon>
