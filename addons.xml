@@ -11,7 +11,7 @@
     <source>https://github.com/marcelveldt/script.module.musicbrainz</source>
     <platform>all</platform>
   </extension>
-<addon provider-name="Tgx, modded by AshJG" name="Nebula plus" version="18.0.1" id="skin.nebulaPlus">
+<addon provider-name="Tgx, modded by AshJG" name="Nebula plus" version="18.0.2" id="skin.nebulaPlus">
 <requires>
 <import version="5.14.0" addon="xbmc.gui"/>
 <import version="3.2.0" addon="script.favourites"/>
