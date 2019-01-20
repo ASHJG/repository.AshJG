@@ -1,14 +1,8 @@
-# repository.marcelveldt
-Kodi repository for beta versions of marcelveldt's addons
-
+repository.AshJG
+Kodi repository for beta versions of AshJG's addons
 
 Download zip file for the repo and add to Kodi:
 
-https://marcelveldt.github.io/repository.marcelveldt/repository.marcelveldt/repository.marcelveldt-1.0.1.zip
+https://AshJG.github.io/repository.AshJG/repository.AshJG/repository.AshJG-1.0.0.zip
+       
 
-
-
-
-Browse repo content in browser:
-
-https://marcelveldt.github.io/repository.marcelveldt/
