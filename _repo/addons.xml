@@ -3,15 +3,7 @@
   <requires>
   <import addon="xbmc.python" version="2.24.0" />
   </requires>
-  <extension library="lib" point="xbmc.python.module" />
-  <extension point="xbmc.addon.metadata">
-    <summary>Python bindings for Musicbrainz' NGS webservice</summary>
-    <description>Kodi module library for the Python bindings for Musicbrainz' NGS webservice developed by alastair.</description>
-    <license>GNU GENERAL PUBLIC LICENSE Version 2</license>
-    <source>https://github.com/marcelveldt/script.module.musicbrainz</source>
-    <platform>all</platform>
-  </extension>
-<addon provider-name="Tgx, modded by AshJG" name="Nebula plus" version="18.0.2" id="skin.nebulaPlus">
+<addon provider-name="Tgx, modded by AshJG" name="Nebula plus" version="18.0.2" id="skin.nebulaplus">
 <requires>
 <import version="5.14.0" addon="xbmc.gui"/>
 <import version="3.2.0" addon="script.favourites"/>
