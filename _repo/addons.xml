@@ -3,7 +3,7 @@
   <requires>
   <import addon="xbmc.python" version="2.24.0" />
   </requires>
-<addon provider-name="Tgx, modded by AshJG" name="Nebula Plus" version="18.0.5" id="skin.nebulaPlus">
+<addon provider-name="Tgx, modded by AshJG" name="Nebula Plus" version="18.0.6" id="skin.nebulaPlus">
 <requires>
 <import version="5.14.0" addon="xbmc.gui"/>
 <import version="3.2.0" addon="script.favourites"/>
